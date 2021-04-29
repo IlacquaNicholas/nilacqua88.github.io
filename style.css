@@ -1,6 +1,6 @@
 body{
-  Background-color: Purple;
-  Color: yellow;
+  Background-color: Cadetblue;
+  Color: Black;
   font-family: Arial, Helvetica;
   margin: 5%
 }
@@ -15,7 +15,9 @@ body{
 H1, p {
   Text-align: center; 
 }
-
+p{
+  Text-transform: uppercase;
+}
 li{
   Font-size: 75%;
   
