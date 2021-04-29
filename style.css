@@ -1,0 +1,16 @@
+body{
+  Background-color: Purple;
+  Color: yellow;
+  font-family: Arial, Helvetica;
+  margin: 5%
+}
+
+.exp-header{
+  Text-transform: uppercase;
+  Border-top: solid;
+  
+}
+
+H1, p {
+  Text-align: center;
+}
