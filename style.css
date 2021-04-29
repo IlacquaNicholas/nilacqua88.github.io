@@ -7,10 +7,19 @@ body{
 
 .exp-header{
   Text-transform: uppercase;
-  Border-top: solid;
+  Border-top: 5px solid;
+  
   
 }
 
 H1, p {
-  Text-align: center;
+  Text-align: center; 
+}
+
+li{
+  Font-size: 75%;
+  
+}
+Img{
+  padding-left: 125px 
 }
